@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhupeshDhapola
-- 👀 I’m interested in c and c++
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MCA
 - 📫 How to reach me bhupeshdhapola7@gmail.com
 
 <!---
