@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Bhupesh <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
-- 🎓 I'm MCA Student currently in  studing Amity University Mumbai  
+- 🎓 I'm MCA Student currently pursuing Amity University Mumbai  
 - 🔭 I’m currently working on Java and C++ Data Structures
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing PC games and travelling..
