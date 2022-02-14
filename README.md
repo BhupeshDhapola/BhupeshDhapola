@@ -1,8 +1,43 @@
-- 👋 Hi, I’m @BhupeshDhapola
-- 👀 I’m interested in devloping and building dynamic websites and applicatons
-- 🌱 I’m currently pursuing MCA
+## Hi 👋, I'm Bhupesh <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
-<!---
-BhupeshDhapola/BhupeshDhapola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I'm MCA Student currently in  studing Amity University Mumbai  
+- 🔭 I’m currently working on Java and C++ Data Structures
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love playing PC games and travelling..
+
+<br>
+
+
+### :gear: My skills include:
+
+- **Languages**: `C++`,`C`, `Java`.`Android`.
+
+- **Web Technologies**: `Html`,`Css`.
+
+- **Database Technologies**: `SQL`.
+
+- **Version Control Tools**: `Git`.
+
+
+
+
+<br>
+
+
+📫 **How to Reach me**: 
+ 
+
+<a href="https://www.linkedin.com/in/bhupesh-dhapola-aa3990173">
+  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+</a> 
+<a href="mailto:bhupeshdhapola@gmail.com">
+  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+</a>
+<a href="https://instagram.com/bhupesh_dhapola__">
+  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
+</a>
+</br>
+<br>
+<br>
+<br>
+<br>
