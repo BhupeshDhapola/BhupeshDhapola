@@ -19,10 +19,11 @@
 - **Version Control Tools**: `Git`.
 
 
-
-
+<br>
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BhupeshXD)
+
 
 <br>
 
