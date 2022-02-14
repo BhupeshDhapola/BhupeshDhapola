@@ -21,6 +21,9 @@
 
 
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=BhupeshXD)
+
 <br>
 
 
@@ -36,6 +39,7 @@
 <a href="https://instagram.com/bhupesh_dhapola__">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
 </a>
+
 </br>
 <br>
 <br>
