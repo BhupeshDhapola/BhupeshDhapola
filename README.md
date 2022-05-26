@@ -10,7 +10,7 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `Java`.`Android`.
+- **Languages**: `Java`.`Android`.`C`,`C++` 
 
 - **Web Technologies**: `Html`,`Css Basics`.
 
