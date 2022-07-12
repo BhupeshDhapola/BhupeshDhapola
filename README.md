@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Bhupesh <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
 - 🎓 I'm Student, Learner currently pursuing MCA from Amity University Mumbai  
-- 🔭 I’m currently working on Java and C++ Data Structures
+- 🔭 I’m currently working on Web Technologies
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing PC games and travelling..
 
@@ -12,7 +12,7 @@
 
 - **Languages**: `Java`.`Android`.`C`,`C++` 
 
-- **Web Technologies**: `Html`,`Css Basics`.
+- **Web Technologies**: `Html`,`Css`.
 
 - **Database Technologies**: `SQL`.
 
