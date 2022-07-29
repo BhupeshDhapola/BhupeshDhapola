@@ -12,7 +12,7 @@
 
 - **Languages**: `Java`.`Android`.`C`,`C++` 
 
-- **Web Technologies**: `Html`,`Css`.
+- **Web Technologies**: `Html`,`Css`, `Javascript`
 
 - **Database Technologies**: `SQL`.
 
