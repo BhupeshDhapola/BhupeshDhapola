@@ -18,7 +18,9 @@
 
 - **Version Control Tools**: `Git`.
 
-- **Android Development**: `Android`, `Firebase`
+- **Android Development**: `Android`, `Firebase`.
+
+-**Software**: `VS CODE`, `Intelli J` , `Eclipse`, `Android Studio`.
 
 
 <br>
