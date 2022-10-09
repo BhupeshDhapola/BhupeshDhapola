@@ -10,13 +10,15 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `Java`.`Android`.`C`,`C++` 
+- **Languages**: `Java`.`C`,`C++` 
 
 - **Web Technologies**: `Html`,`Css`, `Javascript`
 
 - **Database Technologies**: `SQL`.
 
 - **Version Control Tools**: `Git`.
+
+- **Android Development**: `Android`, `Firebase`
 
 
 <br>
