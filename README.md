@@ -20,7 +20,7 @@
 
 - **Android Development**: `Android`, `Firebase`.
 
-- **Software**: `VS Code`, `Intelli J` , `Eclipse`, `Android Studio`.
+- **Softwares**: `VS Code`, `Intelli J` , `Eclipse`, `Android Studio`.
 
 
 <br>
