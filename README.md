@@ -16,7 +16,7 @@
 
 - **Database Technologies**: `SQL`.
 
-- **Version Control Tools**: `Git`.
+- **Version Control Tools**: `Git`, `Github`.
 
 - **Android Development**: `Android`, `Firebase`.
 
