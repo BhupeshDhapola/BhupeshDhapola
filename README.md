@@ -14,7 +14,7 @@
 
 - **Web Technologies**: `Html`, `Css`, `Javascript`.
 
-- **Database Technologies**: `SQL`.
+- **Database Technologies**: `SQL`, `MYSQL`.
 
 - **Version Control Tools**: `Git`, `Github`.
 
