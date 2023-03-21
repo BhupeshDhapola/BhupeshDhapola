@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Bhupesh <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
-- 🎓 I'm Student, Learner currently React.js 
+- 🎓 I'm Student, currently learning React.js 
 - 🔭 I’m currently working on Web Technologies
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing PC games and travelling..
