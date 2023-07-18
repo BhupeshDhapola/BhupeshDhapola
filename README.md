@@ -1,4 +1,4 @@
-## Hi 👋, I'm Bhupesh Dhapola<iframe src="https://giphy.com/embed/jTFwQBYyzTIpJXLtM3" width="50" frameBorder="0" class="giphy-embed"></iframe>
+## Hi 👋, I'm Bhupesh Dhapola
 - 🎓 I'm MCA Student, currently learning & grinding React.js 
 - 🔭 I’m currently working on Web Technologies
 - 😄 Pronouns: He/him
