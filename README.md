@@ -22,8 +22,12 @@
 - **Softwares**: `VS Code`, `Intelli J` , `Eclipse`, `Android Studio`.
 
 
+
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhupeshXD&show_icons=true&locale=en&layout=compact" alt="BhupeshXD" /></p>
+
+<br>
 
 📫 **How to Reach me**: 
  
@@ -37,6 +41,8 @@
 <a href="https://instagram.com/bhupesh_dhapola__">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
 </a>
+
+
 
 </br>
 <br>
