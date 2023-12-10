@@ -7,7 +7,7 @@
 <br>
 
 
-### :gear: My skills include:
+### My skills include:
 
 - **Languages**: `Java`, `C`, `C++`.
 
