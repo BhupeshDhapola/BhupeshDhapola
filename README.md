@@ -9,15 +9,11 @@
 
 ### My skills include:
 
-- **Languages**: `Java`, `C`, `C++`.
-
 - **Web Technologies**: `Html`, `Css`, `Javascript`, `React.js`.
 
-- **Database Technologies**: `SQL`, `MYSQL`.
+- **Database Technologies**: `SQL`.
 
 - **Version Control Tools**: `Git`, `Github`.
-
-- **Android Development**: `Android`, `Firebase`.
 
 - **Softwares**: `VS Code`, `Intelli J` , `Eclipse`, `Android Studio`.
 
